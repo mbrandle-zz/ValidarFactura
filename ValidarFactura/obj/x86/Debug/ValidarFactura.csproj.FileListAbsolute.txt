@@ -1,0 +1,8 @@
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\bin\Debug\ValidarFactura.exe
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\bin\Debug\ValidarFactura.pdb
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\obj\x86\Debug\ValidarFactura.Properties.Resources.resources
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\obj\x86\Debug\ValidarFactura.csproj.GenerateResource.Cache
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\obj\x86\Debug\ValidarFactura.exe
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\obj\x86\Debug\ValidarFactura.pdb
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\bin\Debug\ValidarFactura.exe.config
+c:\users\mbrandle\documents\visual studio 2010\Projects\ValidarFactura\ValidarFactura\obj\x86\Debug\ValidarFactura.Form1.resources
